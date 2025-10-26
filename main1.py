@@ -1,0 +1,13 @@
+#hi this my code 
+print("I am Kim.")
+print("I do YouTube.")
+print("In my free time, I make super cool videos.")
+print("I love playing Roblox games.")
+print("I enjoy learning how to code.")
+print("Python,js,css,html is my favorite programming languages.")
+print("I am creative and always full of ideas.")
+print("I dream of becoming a famous game developer.")
+print("I like making funny and epic content.")
+print("I also enjoy editing videos with effects.")
+print("My fans inspire me to keep creating.")
+print("One day, I will make the best Roblox game ever!")
